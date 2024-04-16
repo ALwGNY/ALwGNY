@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**ALwGNY/ALwGNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+## Qui suis-je ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m'appelle Alexiis, j'ai 21 ans et je suis à la recherche d'une alternance en tant que développeur Full Stack.
+
+## Skills
+
+En tant que développeur Frontend, je maîtrise les technologies suivantes :
+- HTML5
+- CSS3 (SASS/SCSS)
+- JavaScript (ES6+)
+- React.JS
+
+Je suis actuellement en train de me former en autodidacte sur le Back End pour me preparer au mieux pour l'alternance.
+Pour cela je vois les bases de mongo DB comme base de données et NodeJS. 
+
+## Contact
+
+Si vous êtes intéressé par mon profil ou si vous avez des opportunités d'alternance à me proposer, vous pouvez me contacter par :
+- Email : alexisgournay10@gmail.com
+- LinkedIn : https://www.linkedin.com/in/alexis-g-6489a91b4/?trk=public-profile-join-page
+
+Je suis actuellement ouvert à des opportunités d'alternance et je serais ravi d'échanger avec vous !
+
