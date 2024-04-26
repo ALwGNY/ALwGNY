@@ -4,7 +4,7 @@
 
 ## Qui suis-je ?
 
-Je m'appelle Alexiis, j'ai 21 ans et je suis à la recherche d'une alternance en tant que développeur Full Stack.
+Je m'appelle Alexis, j'ai 21 ans et je suis à la recherche d'une alternance en tant que développeur Full Stack.
 
 ## Skills
 
